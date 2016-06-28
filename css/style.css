@@ -7,7 +7,7 @@
 
 .navbar h1 {
   color: white;
-  font-size: 1.5em;
+  font-size: 2em;
   display: inline-block;
   float: left;
 }
@@ -20,9 +20,11 @@
 
 .navbar li {
   display: inline-block;
+  padding-right: 5px;
 }
 
 .navbar a {
   color: white;
   text-decoration: none;
+  font-size: 1.5em;
 }
