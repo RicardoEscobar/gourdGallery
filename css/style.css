@@ -44,3 +44,11 @@ html, body {
   float: right;
   width: 340px;
 }
+
+.nav-pills li a {
+  color: #ff6d29;
+  border: 1px solid #ff6d29;
+  margin-left: 10px;
+  text-align: center;
+  width: 100px;
+}
