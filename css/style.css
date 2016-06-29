@@ -52,3 +52,7 @@ html, body {
   text-align: center;
   width: 100px;
 }
+
+.nav-pills li.active a:hover {
+  background-color: #ff6d29;
+}
