@@ -25,3 +25,8 @@ html, body {
   padding: 0;
   font-family: 'Arvo', serif;
 }
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
