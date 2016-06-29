@@ -34,3 +34,8 @@ html, body {
 .header {
   padding: 40px;
 }
+
+.header h1 {
+  margin: 0;
+  padding: 0;
+}
